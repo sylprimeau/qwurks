@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<style>
+div#box1 {
+	background: #9DCEFF;
+	width: 400px;
+	height: 200px;
+}
+</style>
+<script>
+function changeBG(el,clr){
+	var elem = document.getElementById(el);
+	elem.style.transition = "background 1.0s linear 0s";
+	elem.style.background = clr;
+}
+</script>
+<body>
+<button onclick="changeBG('box1','#F0F')">Magenta</button>
+<button onclick="changeBG('box1','#0C0')">Green</button>
+<button onclick="changeBG('box1','#9DCEFF')">Origninal</button>
+<div id="box1">Content in box 1 ...</div>
+</body>
+</html>

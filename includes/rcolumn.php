@@ -1,0 +1,2 @@
+<div id="rcolumn">
+</div>

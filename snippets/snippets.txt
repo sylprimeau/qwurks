@@ -1,0 +1,119 @@
+This code will let you click on things of which you DON'T KNOW ITS ID!
+----------------------------------------------------------------------
+document.addEventListener('click', function(e) {
+	alert(e.target.id);
+});
+----------------------------------------------------------------------
+
+
+
+Example:
+---- Notice you can get or set attributes ------
+
+----------------------------------------------------------------------
+document.addEventListener('click', function(e) {
+	alert(e.target.id);
+	vote = e.target.getAttribute("data-vote");
+	id = e.target.getAttribute("data-id");
+	alert("Your vote was: " + vote + "\nThe question # was: " + id);
+	alert("The question for this button was: " + obj[x].question + "\nThe index is: " + x);
+});
+----------------------------------------------------------------------
+
+
+
+=====================================================================================================================================================================================================================================================================================================================================================================
+
+
+
+Add Event Listener To Dynamic Elements (for example, to a class that was created on the fly)
+taken from: http://webintersect.com/articles/72/add-event-listener-to-dynamic-elements
+
+Adding event listeners is great for cleaning up your html.
+
+It is a pretty straight forward process if you know your elements id, but what if you are building your buttons, divs, and other elements dynamically? You will not always be able to predict what the id would be. And what if you have 10 buttons....5 buttons do 1 function, and the other five do another function??
+
+I will show you how to use querySelectorAll to take on this challenge.
+
+Using querySelectorAll, we can target a tag and a css class.
+
+So have php create your buttons with unique ids and each gets a class so we know what function is needed when they click it.
+
+
+
+So here are our buttons...
+-----------------------------------------------------------------
+<button id="one" class="b_poo">Button 1</button>
+<button id="two" class="b_poo">Button 2</button>
+<button id="three" class="b_poo" >Button 3</button>
+<button id="four" class="b_weenis">Button 4</button>
+<button id="five" class="b_weenis">Button 5</button>
+-----------------------------------------------------------------
+
+As you can see, all have a unique id. Buttons 1-3 have a class of b_poo, and buttons 4-5 have a class of b_weenis.
+So now lets add event listeners to those buttons. We are going to target all button tags with a class of b_poo.
+-----------------------------------------------------------------
+var bpoo = document.querySelectorAll('button.b_poo'); 
+-----------------------------------------------------------------
+
+
+
+Then we are going to use length to act like an array to pick up all those buttons with that class
+-----------------------------------------------------------------
+ for (var i = 0; i < bpoo.length; i++) {
+
+ }
+-----------------------------------------------------------------
+
+
+
+Inside of that for loop, we are going to add our event listener.
+Our listener will be a click, and if clicked...we want to run the pooFunction()
+-----------------------------------------------------------------
+bpoo[i].addEventListener("click", pooFunction, false); 
+-----------------------------------------------------------------
+
+
+
+So here is that part all put together.
+-----------------------------------------------------------------
+// Add event listener for all button tags that have a class of b_poo
+	var bpoo = document.querySelectorAll('button.b_poo');
+    for (var i = 0; i < bpoo.length; i++) {
+		// click calls pooFunction
+        bpoo[i].addEventListener("click", pooFunction, false);
+}
+-----------------------------------------------------------------
+
+
+
+Now lets do the same for the buttons with a class of b_weenis
+-----------------------------------------------------------------
+// Add event listener for all button tags that have a class of b_weenis
+	var bweenis = document.querySelectorAll('button.b_weenis');
+    for (var i = 0; i < bweenis.length; i++) {
+		// click calls weenisFunction
+        bweenis[i].addEventListener("click", weenisFunction, false);
+    }
+-----------------------------------------------------------------
+
+
+Now the buttons with a class of b_poo will call one function and the buttons with a class of b_weenis will call another function... Sweet!
+
+You can do this to all kinds of elements....buttons, divs, p tags, a tags.....etc...etc
+
+=====================================================================================================================================================================================================================================================================================================================================================================
+
+KEEP DIV SCROLLED TO BOTTOM OF A DIV (FOR EXAMPLE, AFTER ADDING A NEW COMMENT):
+
+		var objDiv = document.getElementById("commentbox" + dataid);
+		objDiv.scrollTop = objDiv.scrollHeight;
+
+
+=====================================================================================================================================================================================================================================================================================================================================================================
+
+AJAX CAN'T WRITE TO NON-PUBLIC DIRECTORY!
+
+Use a PHP function to act as intermediary
+
+=====================================================================================================================================================================================================================================================================================================================================================================

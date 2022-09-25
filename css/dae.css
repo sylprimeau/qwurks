@@ -1,0 +1,457 @@
+h1 {
+	text-align: center;
+}
+
+.header{
+	font-size: 250%;
+	font-weight: bold;
+}
+#adbanner1 {
+	width: 470px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#adbanner2 {
+	width: 470px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#wrapper {
+	background-color: #eeeeee;
+}
+
+#header {
+	height: 50px;
+	background-color: cornflowerblue;
+	text-align: left;
+}
+#header a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+#header a:link {
+	color: inherit;
+	text-decoration: none;
+}
+#footer {
+	height: 50px;
+	background-color: cornflowerblue;
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+
+#copyright {
+	float: right;
+	margin: 10px 10px;
+}
+
+#privacylink {
+	float: left;
+	margin: 10px 10px;
+}
+
+
+#header {
+	height: 80px;
+	text-align: center;
+}
+
+#submitpost {
+    text-align: right;
+}
+
+#headerlogo{
+	display: inline-block;
+	width: 200px;
+	height: 80px;
+}
+
+body {margin: 0; padding: 0;}
+
+#content {
+	text-align: center;
+	min-height: 700px;
+	width: 840px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Oswald', sans-serif;
+}
+
+.record {
+	position: relative;
+	width: 800px;
+	min-height: 250px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	padding: 10px;
+	box-shadow: 5px 5px 10px #888888;
+	background-color: white;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.submittedby {
+	font-size: small;
+	font-style: italic;
+	position: absolute;
+	top: 5px;
+	color: CornflowerBlue;
+}
+
+.question {
+	text-align: center;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	font-size: x-large;
+}
+
+.explanation {
+	text-align: center;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 90%;
+}
+
+h1,h2,h3,h4,h5,h6,p,span {
+	text-align: center;
+}
+
+.ansbuttons {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+
+.yesbutton {
+	text-align: center;
+	height: 20px;
+	width: 120px;
+	padding: 5px;
+	background: #5077BE;
+	color: white;
+	float: left;
+}
+
+.yesbutton:hover {
+	opacity: 0.7;
+}
+
+.nobutton {
+	text-align: center;
+	height: 20px;
+	width: 120px;
+	padding: 5px;
+	background: #B01030;
+	color: white;
+	float: right;
+}
+
+.nobutton:hover {
+	opacity: 0.7;
+}
+
+.nobutton .voted:hover {
+	opacity: 1;
+}
+
+.totalvotes {
+	display: inline-block;
+	margin-top: 20px;
+	height: 20px;
+	width: 120px;
+	top: 30px;
+	padding: 5px;
+	background: white;
+	color: black;
+} 
+
+.votebars {
+	height: 20px;
+	width: 200px;
+	display: none;
+}
+
+.yesvotebars {
+	height: 20px;
+	width: 0%;
+	background: cornflowerblue;
+	color: white;
+	float: left;
+}
+
+.novotebars {
+	height: 20px;
+	width: 100%;
+	background: crimson;
+	color: white;
+	float: right;
+}
+
+.commentsnum {
+	margin-top: 20px;
+	color: CornflowerBlue;
+	font-weight: bold;
+}
+
+.allcomments {
+	display: none;
+	width: 500px;
+}
+
+.commentbox {
+	margin-top: 10px; 
+/*	border: solid black 1px; */
+/*	min-height: 150px; */
+	max-height: 370px;
+	width: 600px;
+	display: none; /* change to inline-block in script to make appear */ 
+	overflow: auto;
+	position: relative;
+/*	box-shadow: inset 5px 5px 15px #bbbbbb; */
+	background: white;
+}
+
+.commentboxsingle {
+	margin-top: 10px;
+/*	border: solid black 1px; */
+/*	min-height: 150px; */
+/*	max-height: 200px; */
+	width: 600px;
+	display: none; /* change to inline-block in code to make appear */ 
+	overflow: auto;
+	position: relative;
+/*	box-shadow: inset 5px 5px 15px #bbbbbb; */
+	background: white;
+	padding: 20px;
+}
+
+/*
+.commentbox::-webkit-scrollbar {
+	width: 0px;
+}
+*/
+
+.comment {
+	position: relative;
+	display: inline-block;
+	background: #F9F9EA;
+	padding: 15px;
+	padding-bottom: 35px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	text-align: left;
+	box-shadow: 5px 5px 10px #888888;
+	border-radius: 10px;
+	font-size: small;
+}
+
+.datestamp {
+	font-size: x-small;
+	color: #878787;
+	margin-bottom: 10px;
+}
+
+.commentcontent {
+}
+
+.commentuser {
+	font-style: italic;
+	color: CornflowerBlue;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+}
+
+.commentinputwrap {
+	position: relative;
+	display: none;
+	width: 550px;
+}
+
+.nicknameinput {
+	resize: none; /* removes resize handle from textarea */
+	width: 400px;
+	height: 15px;
+	display: inline-block;
+	margin-top: 10px;
+	float: left;
+}
+
+.commentinput {
+	resize: none; /* removes resize handle from textarea */
+	width: 400px;
+	height: 60px;
+	display: inline-block;
+	margin-top: 10px;
+	float: left;
+}
+
+.commentsubmit {
+	height: 80px;
+	width: 120px;
+	float: right;
+	position: relative;
+	top: -10px;
+}
+
+/*using inline-block here with "text-align: center" in the parent div to center */
+.pagebuttons {
+	display: inline-block;
+	border: solid blue 1px;
+}
+
+.pagebutton {
+	float: left;
+	height: 30px;
+	width: 50px;
+	background: skyblue;
+	text-align: center;
+	line-height: 30px;
+	border: solid lightblue 1px;
+}
+
+.pagebutton:hover {
+	background: white;
+}
+
+#currpagebutton {
+	background: cornflowerblue;
+}
+
+#questioninput {
+	resize: none; /* removes resize handle from textarea */
+	width: 400px;
+	height: 60px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+#explanationinput {
+	resize: none; /* removes resize handle from textarea */
+	width: 400px;
+	height: 60px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+#nicknameinput {
+	margin-bottom: 10px;
+}
+
+.label {
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+#examples, #rules {
+	text-align: left;
+	width: 230px;
+	margin: 0 auto 20px auto;
+}
+
+#rules {
+	width: 500px;
+	position: relative;
+}
+
+/* This is the css for the menu bar */
+
+#header ul {
+  position: absolute;
+  text-align: left;
+  margin-left: 50px;
+  margin: 0;
+  padding: 15px 4px 17px 0;
+  list-style: none;
+/*  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15); */
+  z-index: 9999;
+  float: left;
+}
+#header ul li {
+  font-family: 'Oswald', sans-serif;
+  font-size: large;
+  display: inline-block;
+  margin-right: -4px;
+  position: relative;
+  padding: 15px 20px;
+  background: cornflowerblue;
+  cursor: pointer;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+#header ul li:hover {
+  background: cornflowerblue;
+  color: white;
+}
+#header ul li ul {
+  padding: 0;
+  position: absolute;
+  top: 48px;
+  left: 0;
+  width: 150px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transiton: opacity 0.2s;
+  -moz-transition: opacity 0.2s;
+  -ms-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;
+  -transition: opacity 0.2s;
+}
+#header ul li ul li { 
+  background: cornflowerblue; 
+  display: block; 
+  color: black;
+/*  text-shadow: 0 -1px 0 #000; */
+}
+#header ul li ul li:hover {
+  background: cornflowerblue;
+  color: white;
+}
+#header ul li:hover ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
+/* End of css for the menu bar */
+
+#contactform {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#name {
+	width: 200px;
+}
+
+#email {
+	width: 200px;
+}
+
+#privacylink {
+	text-decoration: none;
+	color: black;
+}

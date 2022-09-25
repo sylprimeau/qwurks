@@ -1,0 +1,512 @@
+[
+    {
+        "question": "Does anyone else like the hard, dry bits of pasta and cheese the best when they eat lasagna?",
+        "explanation": "The soft noodles and sauce are OK, but the dry bits are what I really crave!",
+        "yesnum": 11,
+        "nonum": 5,
+        "totalvotes": 16,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-23 00:01:44",
+                "comment": "Gross!",
+                "user": "guest"
+            },
+            {
+                "date": "2015-04-25 14:16:53 GMT",
+                "comment": "Really? &quot;Gross&quot;? LOL",
+                "user": "Sylly"
+            }
+        ],
+        "index": 0
+    },
+    {
+        "question": "Does anyone else wash their hands the moment they come in from outside?",
+        "explanation": "It doesn't seem to stop me from getting colds though!",
+        "yesnum": 10,
+        "nonum": 10,
+        "totalvotes": 20,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-12-11 12:49:58 GMT",
+                "comment": "Only if I went to shop.",
+                "user": "Zelda"
+            }
+        ],
+        "index": 1
+    },
+    {
+        "question": "Does anyone else put their seatbelt on even when they sit in the backseat?",
+        "explanation": "I just don't feel safe if I don't have it on.",
+        "yesnum": 13,
+        "nonum": 7,
+        "totalvotes": 20,
+        "submituser": "airi",
+        "comments": [
+            {
+                "date": "2015-04-22 13:24:47",
+                "comment": "It's probably not any safer in the back than in the front, but it *feels* safer. LOL\nAlso, with no belt on, being thrown forward in a head-on collision could actually kill the person sitting in front of you!",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-04-24 14:18:47 GMT",
+                "comment": "It's the law in Canada.",
+                "user": "Maureen"
+            },
+            {
+                "date": "2015-04-24 15:34:43 GMT",
+                "comment": "Force of habit these days, even when I'm the only person in the car wearing his seatbelt.  I just feel weird without it now.",
+                "user": "Mike"
+            },
+            {
+                "date": "2015-12-11 12:49:21 GMT",
+                "comment": "You have to here... But even on campings (where you don't have to since youre going so slow) I do it.",
+                "user": "Zelda"
+            }
+        ],
+        "index": 2
+    },
+    {
+        "question": "Has anyone else ever lost a limb?",
+        "explanation": "I lost a finger in a farm accident when I was a kid.",
+        "yesnum": 3,
+        "nonum": 20,
+        "totalvotes": 23,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-23 00:03:18",
+                "comment": "How did you lose your finger? Maybe you didn't look for it hard enough. LOL",
+                "user": "guest"
+            },
+            {
+                "date": "2015-04-25 14:18:43 GMT",
+                "comment": "LOL",
+                "user": "Sylly"
+            }
+        ],
+        "index": 3
+    },
+    {
+        "question": "Does anyone else always use two tissues when they blow their nose?",
+        "explanation": "One is not enough.",
+        "yesnum": 9,
+        "nonum": 13,
+        "totalvotes": 22,
+        "submituser": "Sam",
+        "comments": [
+            {
+                "date": "2015-04-23 08:59:17",
+                "comment": "Don't have a problem with tissues in North America, but in Japan, they're all so thin you really need to use 2 most of the time.",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-04-24 20:39:19 GMT",
+                "comment": "No really, I use a lot of tessue paper to blow my nous.This is because all the time I feel someting in side of my nostrils....lol",
+                "user": "JMBS"
+            }
+        ],
+        "index": 4
+    },
+    {
+        "question": "Does anyone else literally get anxious and irritated whenever they are forced to listen to jazz music such as in a mall or restaurant?",
+        "explanation": "I don't just dislike it. I literally can't take it. It drives me mad. It's like listening to nails scratching down a blackboard. I never heard anyone else say that a music genre affects them this way.",
+        "yesnum": 8,
+        "nonum": 12,
+        "totalvotes": 20,
+        "submituser": "Sylly",
+        "comments": [],
+        "index": 5
+    },
+    {
+        "question": "Is anyone else not able to drink coffee?",
+        "explanation": "Most people I know love it and those who don't love it can at least tolerate it. I can't drink it at all.",
+        "yesnum": 13,
+        "nonum": 14,
+        "totalvotes": 27,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-23 06:16:17",
+                "comment": "Big coffee drinker here. Need coffee to open my eyes in the morning, need it all through the day, and need it to get to sleep in the evening. Might have a cup after typing this comment.",
+                "user": "Justin"
+            },
+            {
+                "date": "2015-04-23 18:22:44 GMT",
+                "comment": "@Justin Haha. Need it to get to sleep in the evening, huh? Caffeine as a sedative. Market that and someone will buy it!",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-04-24 20:34:47 GMT",
+                "comment": "I like not to much jost two big cups of coffe on themorning, but thats enough to have my body work...",
+                "user": "JMBS"
+            }
+        ],
+        "index": 6
+    },
+    {
+        "question": "Does anyone else eat every food in their meal at an equal pace so that at the end of your meal, you finish with one small bite of each food?",
+        "explanation": "For example, if I have rice, steak and salad, I'll eat a little bit of steak, a bit of rice and a bit of salad in rotation, decreasing each food roughly equally until the end. Then I finish with one mouthful of everything mixed!",
+        "yesnum": 8,
+        "nonum": 12,
+        "totalvotes": 20,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-24 14:54:32 GMT",
+                "comment": "I used to know someone who ate all of one food before moving on to the next. She'd eat all her salad, then all her rice, then all her meat, for example. I can't do that!",
+                "user": "Sylly"
+            }
+        ],
+        "index": 7
+    },
+    {
+        "question": "Does anybody else like beef tongue?",
+        "explanation": "My favorite food!",
+        "yesnum": 19,
+        "nonum": 6,
+        "totalvotes": 25,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-24 17:40:10 GMT",
+                "comment": "Wow. Currently 80% yes??? I didn't expect that!!!",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-04-25 06:29:28 GMT",
+                "comment": "11 votes and 82% yes? How is such a high percentage even possible? Nearly every westerner I know (except for a few friends that are culinarily adventurous - living in Japan, you have to be) is completely grossed out at the very idea of beef tongue. Where do these yes people live? LOL",
+                "user": "Sylly"
+            }
+        ],
+        "index": 8
+    },
+    {
+        "question": "Does anybody else have hundreds of bookmarked webpages they never go back to read?",
+        "explanation": "I'm always bookmarking pages and rarely go back to them!",
+        "yesnum": 7,
+        "nonum": 9,
+        "totalvotes": 16,
+        "submituser": "nerdgirl",
+        "comments": [],
+        "index": 9
+    },
+    {
+        "question": "Are anybody else's hands and feet freezing cold almost ALL the time?",
+        "explanation": "Even in summer!",
+        "yesnum": 7,
+        "nonum": 10,
+        "totalvotes": 17,
+        "submituser": "nerdgirl",
+        "comments": [],
+        "index": 10
+    },
+    {
+        "question": "Does anybody else wear a face mask while sleeping to keep dust out of their mouth?",
+        "explanation": "The doctor suggested I wear a face mask to keep dust out of my mouth.",
+        "yesnum": 2,
+        "nonum": 10,
+        "totalvotes": 12,
+        "submituser": "kim",
+        "comments": [],
+        "index": 11
+    },
+    {
+        "question": "Does anybody else start a book by reading the last page first?",
+        "explanation": "",
+        "yesnum": 7,
+        "nonum": 8,
+        "totalvotes": 15,
+        "submituser": "kim",
+        "comments": [],
+        "index": 12
+    },
+    {
+        "question": "Does anyone else spray vinegar and citric acid on their skin after they shower?",
+        "explanation": "In order to restore ph balance",
+        "yesnum": 2,
+        "nonum": 13,
+        "totalvotes": 15,
+        "submituser": "kim",
+        "comments": [],
+        "index": 13
+    },
+    {
+        "question": "Does anybody\/anyone else absolutely despise sharing food?",
+        "explanation": "",
+        "yesnum": 5,
+        "nonum": 7,
+        "totalvotes": 12,
+        "submituser": "dooshbag",
+        "comments": [],
+        "index": 14
+    },
+    {
+        "question": "Is anybody else not able to save much money?",
+        "explanation": "I want to save money but I can't because I want to buy a lot of things.",
+        "yesnum": 8,
+        "nonum": 3,
+        "totalvotes": 11,
+        "submituser": "airi",
+        "comments": [],
+        "index": 15
+    },
+    {
+        "question": "Does anybody else have a secret that you can't tell anyone, not even your best friend?",
+        "explanation": "",
+        "yesnum": 13,
+        "nonum": 2,
+        "totalvotes": 15,
+        "submituser": "airi",
+        "comments": [],
+        "index": 16
+    },
+    {
+        "question": "Does anybody else use a parasol even when it's cloudy?",
+        "explanation": "I always use a parasol.",
+        "yesnum": 3,
+        "nonum": 9,
+        "totalvotes": 12,
+        "submituser": "airi",
+        "comments": [],
+        "index": 17
+    },
+    {
+        "question": "Did anyone else know that in Latin &quot;Jehovah&quot; begins with an &quot;I&quot;?",
+        "explanation": "This almost cost me my life once!",
+        "yesnum": 3,
+        "nonum": 10,
+        "totalvotes": 13,
+        "submituser": "Indy Jones",
+        "comments": [
+            {
+                "date": "2015-05-28 12:56:32 GMT",
+                "comment": "How did it almost cost you your life?",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-12-09 21:01:47 GMT",
+                "comment": "That's interesting.",
+                "user": "Sylly"
+            }
+        ],
+        "index": 18
+    },
+    {
+        "question": "Does anyone else like Justin Bieber but is too embarrassed to tell their friends?",
+        "explanation": "",
+        "yesnum": 3,
+        "nonum": 6,
+        "totalvotes": 9,
+        "submituser": "wine lover",
+        "comments": [],
+        "index": 19
+    },
+    {
+        "question": "Does anybody else turn on the air conditioner at night and then use a comforter to keep warm?",
+        "explanation": "",
+        "yesnum": 6,
+        "nonum": 1,
+        "totalvotes": 7,
+        "submituser": "Laura",
+        "comments": [],
+        "index": 20
+    },
+    {
+        "question": "Does anybody else get pissed off at least 5 times a day for no reason at all?",
+        "explanation": "I feel sorry for the people around me.",
+        "yesnum": 4,
+        "nonum": 5,
+        "totalvotes": 9,
+        "submituser": "JoyJoy",
+        "comments": [
+            {
+                "date": "2015-12-11 17:28:23 GMT",
+                "comment": "Yes some bipolar like me haha",
+                "user": "Beer"
+            }
+        ],
+        "index": 21
+    },
+    {
+        "question": "Does anyone else use the word &quot;ya&quot; instead of &quot;you&quot; even if you're not British?",
+        "explanation": "",
+        "yesnum": 4,
+        "nonum": 6,
+        "totalvotes": 10,
+        "submituser": "Steo",
+        "comments": [
+            {
+                "date": "2015-12-10 08:58:34 GMT",
+                "comment": "Of course. I say &quot;see ya later&quot; all the time.",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-12-10 09:07:50 GMT",
+                "comment": "I've told ya Steo! Haha",
+                "user": "JoyJoy"
+            },
+            {
+                "date": "2015-12-10 09:17:00 GMT",
+                "comment": "&quot;I say&quot; means that u r talking about prononciation.\nI was asking about written language!\nYa... sounds like &quot;yes&quot; in german!!!! Lol",
+                "user": "Steo"
+            },
+            {
+                "date": "2015-12-10 17:17:10 GMT",
+                "comment": "Yes Steo, most native speakers use it in writing too if they want to it sound like they are speaking casually.",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-12-10 17:20:03 GMT",
+                "comment": "I've told ya Sylly hahaha.",
+                "user": "JoyJoy"
+            },
+            {
+                "date": "2015-12-10 17:23:01 GMT",
+                "comment": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                "user": "JoyJoy"
+            },
+            {
+                "date": "2015-12-10 17:23:37 GMT",
+                "comment": "What did you tell me?",
+                "user": "Sylly"
+            }
+        ],
+        "index": 22
+    },
+    {
+        "question": "Does anyone else hate salads?",
+        "explanation": "",
+        "yesnum": 5,
+        "nonum": 7,
+        "totalvotes": 12,
+        "submituser": "JoyJoy",
+        "comments": [
+            {
+                "date": "2015-12-11 17:33:12 GMT",
+                "comment": "Salads are awesome as long as you have the right dressing!",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-12-11 17:33:50 GMT",
+                "comment": "Funny how the only way to make things taste good is by making them less healthy. haha",
+                "user": "Frank N. Stein"
+            },
+            {
+                "date": "2015-12-11 19:18:15 GMT",
+                "comment": "What's the right dressing?",
+                "user": "JoyJoy"
+            }
+        ],
+        "index": 23
+    },
+    {
+        "question": "Does anyone like health food?",
+        "explanation": "",
+        "yesnum": 3,
+        "nonum": 4,
+        "totalvotes": 7,
+        "submituser": "whatever",
+        "comments": [
+            {
+                "date": "2015-12-11 17:21:12 GMT",
+                "comment": "I like healthy food but not many &quot;health foods&quot;.",
+                "user": "Sylly"
+            }
+        ],
+        "index": 24
+    },
+    {
+        "question": "Does anybody else have that drawer for everything that's not a fork, spoon or knife?",
+        "explanation": "",
+        "yesnum": 7,
+        "nonum": 2,
+        "totalvotes": 9,
+        "submituser": "Chinny",
+        "comments": [],
+        "index": 25
+    },
+    {
+        "question": "Does anyone else hate getting water in their eyes?",
+        "explanation": "For me, it hurts almost as much as getting soap in your eyes.",
+        "yesnum": 5,
+        "nonum": 0,
+        "totalvotes": 5,
+        "submituser": "Zelda",
+        "comments": [
+            {
+                "date": "2015-12-11 17:13:22 GMT",
+                "comment": "It doesn't sting as much as soap but I do hate water in my eyes!",
+                "user": "Sam"
+            }
+        ],
+        "index": 26
+    },
+    {
+        "question": "Does anybody else like bald headed guys?",
+        "explanation": "Well...",
+        "yesnum": 2,
+        "nonum": 2,
+        "totalvotes": 4,
+        "submituser": "CrazyFrog",
+        "comments": [],
+        "index": 27
+    },
+    {
+        "question": "Does anybody else find it hard to stop reading English subtitles even when they're on an English movie\/show and you easily understand everything being said?",
+        "explanation": "",
+        "yesnum": 6,
+        "nonum": 1,
+        "totalvotes": 7,
+        "submituser": "Frank N. Stein",
+        "comments": [
+            {
+                "date": "2015-12-11 17:35:23 GMT",
+                "comment": "Sure I need subtitles in my life lol",
+                "user": "Obama"
+            },
+            {
+                "date": "2015-12-11 18:11:00 GMT",
+                "comment": "Yea well, here in the Netherlands we sub everything with Dutch subtitles, but I can understand English normally so I dont need them. They annoy me sometimes since the translations can be weird..",
+                "user": "Zelda"
+            },
+            {
+                "date": "2015-12-11 19:17:02 GMT",
+                "comment": "You're right Zelda. Lol",
+                "user": "JoyJoy"
+            }
+        ],
+        "index": 28
+    },
+    {
+        "question": "Would anybody else marry someone and then get a divorce after 9 months?",
+        "explanation": "",
+        "yesnum": 0,
+        "nonum": 5,
+        "totalvotes": 5,
+        "submituser": "Moshimoshi",
+        "comments": [],
+        "index": 29
+    },
+    {
+        "question": "Does anybody else go to the supermarket with a list of things to buy and end up buying a bunch of stuff that's not in the list?",
+        "explanation": "",
+        "yesnum": 3,
+        "nonum": 2,
+        "totalvotes": 5,
+        "submituser": "SexyAss",
+        "comments": [],
+        "index": 30
+    },
+    {
+        "question": "Did anybody else find this site through the DAE reddit?",
+        "explanation": "The guy that made this site put a link on reddit so I thought I'd check it out. It's pretty good! I like that you can see what percentage voted yes and no. But you should add nested comments and email notifications for when someone replies to your comment or votes on your question. :)",
+        "yesnum": 10,
+        "nonum": 1,
+        "totalvotes": 11,
+        "submituser": "SaraBB",
+        "comments": [],
+        "index": 31
+    }
+]

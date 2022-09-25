@@ -1,0 +1,11 @@
+CSS hover doesn't work
+======================
+CSS hover doesn't work on iOS. To fix this, you can add-- onclick="" (onlick equals empty quotes) -- to any element that needs it
+
+412 precondition failed
+=======================
+Got this error in Firebug and it was failing to take votes.
+DIDN'T WORK! - Changing POST in AJAX to GET seems to have fixed it so far.
+Not sure what to do here. Will need to look into it. Using GET didn't save the vote to server properly so when the page reloaded it didn't display the additional vote. Figure out how to use GET with AJAX?
+
+

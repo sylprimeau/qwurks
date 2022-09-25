@@ -1,0 +1,203 @@
+[
+    {
+        "question": "Does anyone else like the hard, dry bits of pasta and cheese the best when they eat lasagna?",
+        "explanation": "The soft noodles and sauce are OK, but the dry bits are what I really crave!",
+        "yesnum": 3,
+        "nonum": 2,
+        "totalvotes": 5,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-23 00:01:44",
+                "comment": "Gross!",
+                "user": "guest"
+            }
+        ],
+        "index": 0
+    },
+    {
+        "question": "Does anyone else wash their hands the moment they come in from outside?",
+        "explanation": "It doesn't seem to stop me from getting colds though!",
+        "yesnum": 2,
+        "nonum": 4,
+        "totalvotes": 6,
+        "submituser": "Sylly",
+        "comments": [],
+        "index": 1
+    },
+    {
+        "question": "Does anyone else put their seatbelt on even when they sit in the backseat?",
+        "explanation": "I just don't feel safe if I don't have it on.",
+        "yesnum": 4,
+        "nonum": 2,
+        "totalvotes": 6,
+        "submituser": "airi",
+        "comments": [
+            {
+                "date": "2015-04-22 13:24:47",
+                "comment": "It's probably not any safer in the back than in the front, but it *feels* safer. LOL\nAlso, with no belt on, being thrown forward in a head-on collision could actually kill the person sitting in front of you!",
+                "user": "Sylly"
+            },
+            {
+                "date": "2015-04-24 14:18:47 GMT",
+                "comment": "It's the law in Canada.",
+                "user": "Maureen"
+            },
+            {
+                "date": "2015-04-24 15:34:43 GMT",
+                "comment": "Force of habit these days, even when I'm the only person in the car wearing his seatbelt.  I just feel weird without it now.",
+                "user": "Mike"
+            }
+        ],
+        "index": 2
+    },
+    {
+        "question": "Has anyone ever lost a limb?",
+        "explanation": "I lost a finger in a farm accident when I was a kid.",
+        "yesnum": 1,
+        "nonum": 7,
+        "totalvotes": 8,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-23 00:03:18",
+                "comment": "How did you lose your finger? Maybe you didn't look for it hard enough. LOL",
+                "user": "guest"
+            }
+        ],
+        "index": 3
+    },
+    {
+        "question": "Does anyone else always use two tissues when they blow their nose?",
+        "explanation": "One is not enough.",
+        "yesnum": 2,
+        "nonum": 3,
+        "totalvotes": 5,
+        "submituser": "Sam",
+        "comments": [
+            {
+                "date": "2015-04-23 08:59:17",
+                "comment": "Don't have a problem with tissues in North America, but in Japan, they're all so thin you really need to use 2 most of the time.",
+                "user": "Sylly"
+            }
+        ],
+        "index": 4
+    },
+    {
+        "question": "Does anyone else literally get anxious and irritated whenever they are forced to listen to jazz music such as in a mall or restaurant?",
+        "explanation": "I don't just dislike it. I literally can't take it. It drives me mad. It's like listening to nails scratching down a blackboard. I never heard anyone else say that a music genre affects them this way.",
+        "yesnum": 2,
+        "nonum": 4,
+        "totalvotes": 6,
+        "submituser": "Sylly",
+        "comments": [],
+        "index": 5
+    },
+    {
+        "question": "Is anyone else not able to drink coffee?",
+        "explanation": "Most people I know love it and those who don't love it can at least tolerate it. I can't drink it at all.",
+        "yesnum": 2,
+        "nonum": 6,
+        "totalvotes": 8,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-23 06:16:17",
+                "comment": "Big coffee drinker here. Need coffee to open my eyes in the morning, need it all through the day, and need it to get to sleep in the evening. Might have a cup after typing this comment.",
+                "user": "Justin"
+            },
+            {
+                "date": "2015-04-23 18:22:44 GMT",
+                "comment": "@Justin Haha. Need it to get to sleep in the evening, huh? Caffeine as a sedative. Market that and someone will buy it!",
+                "user": "Sylly"
+            }
+        ],
+        "index": 6
+    },
+    {
+        "question": "Does anyone else eat every food in their meal at an equal pace so that at the end of your meal, you finish with one small bite of each food?",
+        "explanation": "For example, if I have rice, steak and salad, I'll eat a little bit of steak, a bit of rice and a bit of salad in rotation, decreasing each food roughly equally until the end. Then I finish with one mouthful of everything mixed!",
+        "yesnum": 4,
+        "nonum": 1,
+        "totalvotes": 5,
+        "submituser": "Sylly",
+        "comments": [
+            {
+                "date": "2015-04-24 14:54:32 GMT",
+                "comment": "I used to know someone who ate all of one food before moving on to the next. She'd eat all her salad, then all her rice, then all her meat, for example. I can't do that!",
+                "user": "Sylly"
+            }
+        ],
+        "index": 7
+    },
+    {
+        "question": "Does anybody else like beef tongue?",
+        "explanation": "My favorite food!",
+        "yesnum": 3,
+        "nonum": 1,
+        "totalvotes": 4,
+        "submituser": "Sylly",
+        "comments": [],
+        "index": 8
+    },
+    {
+        "question": "dgdsg",
+        "explanation": "",
+        "yesnum": 0,
+        "nonum": 0,
+        "totalvotes": 0,
+        "submituser": "sgdsgsdgds",
+        "comments": [],
+        "index": 9
+    },
+    {
+        "question": "dgdsg",
+        "explanation": "",
+        "yesnum": 0,
+        "nonum": 0,
+        "totalvotes": 0,
+        "submituser": "sgdsgsdgds",
+        "comments": [],
+        "index": 10
+    },
+    {
+        "question": "fgjfdjdfjdfjd",
+        "explanation": "gjdfjdjdfjdfjfdj",
+        "yesnum": 0,
+        "nonum": 0,
+        "totalvotes": 0,
+        "submituser": "dfjdfjdfjdf",
+        "comments": [],
+        "index": 11
+    },
+    {
+        "question": "sssssss",
+        "explanation": "",
+        "yesnum": 0,
+        "nonum": 0,
+        "totalvotes": 0,
+        "submituser": "ssss",
+        "comments": [],
+        "index": 12
+    },
+    {
+        "question": "sssss",
+        "explanation": "",
+        "yesnum": 0,
+        "nonum": 0,
+        "totalvotes": 0,
+        "submituser": "ssssss",
+        "comments": [],
+        "index": 13
+    },
+    {
+        "question": "aaa",
+        "explanation": "",
+        "yesnum": 0,
+        "nonum": 0,
+        "totalvotes": 0,
+        "submituser": "aaaa",
+        "comments": [],
+        "index": 14
+    }
+]

@@ -1,0 +1,153 @@
+www.qwurks.com -- CHOSEN!
+
+
+!!!!NOTE - START DELETING OLD NEWS VIDS
+!!!! Backup adsense before they take it off!
+
+To Do - URGENT:
+===============
+
+- CANCEL ARVIXE!!!
+
+- responsive design
+- FB and twitter share buttons (can't do until you've secured new domain) -- do you really need them?????
+- profanity filter for comments and questions 
+
+ 
+To Do - CAN WAIT:
+=================
+- prevent double submission of questions
+- prevent user from entering same message twice (by comparing with last existing comment)
+- add "last" to pagination
+- can add photos
+- ability to approve photos
+- +1 questions to upvote (like the question regardless of your answer)
+- fix pagination (no rush because it seems to work if page count is not very high)
+- login (don't really need it)
+- timestamp for submitted questions?
+
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+
+Ver 36
+======
+- load only 5 comments for posts on main page works!
+- added "view all comments" link and limited homepage view to 5 comments (no scroll)
+- updated policy page with correct URL
+
+Ver 35
+======
+- FIXED! commenting out commentinputwrap to get rid of "add comment" on main page BREAKS VOTE BUTTON HIGHLIGHTING!!!
+
+
+Ver 34
+======
+- comments show in reverse order on single post pages and main page
+- change commentbox look on single pages (no scroll box, just flat) and on main page too
+
+Ver33
+=====
+- added datestamp to commments
+
+
+Ver 31
+======
+- commented out analytics because I don't have a code for it yet (was accidentally using esltoolchest)
+
+Ver 30
+======
+- highlight yes or no for voted questions
+
+
+Ver 29
+======
+- had to add expiry to cookies. Without it, the cookies are deleted at end of session
+- $sort needs to be passed on when going to next page
+
+Ver 28
+======
+- iPhone problem seems to be fixed! -- I had to use a PHP file as an intermediary to get AJAX to access the json file in the non-public dir and Safari seems to be working OK... for now.
+- all files receiving data secured with specialchars
+- users can enter different question types such as "does anybody else", "can anybody else", "has anybody else", "will anybody else", etc., as the wish
+- policy page added
+
+
+
+Ver 27
+======
+- auto-scroll comment box to bottom when submitting new comment
+
+Ver 26
+======
+- add different sorts (newest, oldest, most votes, least votes)
+
+
+
+Ver 25
+======
+- clear comments input box after submitting (helps prevent double-input messages)
+- submit as "guest" when nickname is missing
+- STILL SEEMS TO WORK OK ON SAFARI iOS
+
+
+Ver 24
+======
+- fixed a couple of errors
+	- saveVote was in the wrong place and saving no matter what
+	- was passing the wrong variable to showVotebars from onLoad so fixed that too
+	- STILL WORKS OK ON SAFARI iOS
+
+Ver 23
+======
+SEEMS TO WORK OK NOW!
+- works on iPhone! (wouldn't take cookie starting with comma)
+- displays correct number of votes!
+- expands comments that have been voted on!
+- user's vote preserved using a cookie so that they don't vote twice
+
+
+Ver 20
+======
+Got it working so that it opens up the questions that have already been voted on. Did this by storing a cookie with php as the page is being created and then comparing it with another cookie with JS when the user votes. Every vote stores a new value to the cookie.
+
+Problem is that it broke a couple small things. Bigger problem is that it doesn't work on iPhone for some reason.
+
+
+Ver 13
+======
+-OK- NOW IT'S WORKING! Comments are updating properly and displaying properly! Woo hoo!!!!!
+
+Ver 12
+======
+-OK- Now the comments refresh properly when a user enters a comment! (Still missing input box after refresh though)
+NOT WORKING THE WAY I THOUGHT!!!! 
+
+Ver 11
+------
+-OK- Now you can add comments! But it doesn't reload so you can't see your comments there until you reload yourself
+
+
+Ver 10
+------
+
+- OK - Show "(question) submitted by" line
+- OK - Show comment submitter too
+- OK - submit post allows nickname
+- OK - savepost.php stores extra variables and array for comments
+
+
+Ver: 9
+------
+- OK - comments are scrollable
+
+
+
+Ver: 8
+------
+- OK - load multiple comments for a specific question
+- OK - vote only once
+- OK - first thing the user sees is the posts by newest first (default)
+- OK - if there are more than 10 posts, show only the first 10
+- OK - user can only see question, explanation, yes button, no button and number of total votes so far
+- OK - when user clicks on yes or no, total votes increases by one and div opens up to reveal comments

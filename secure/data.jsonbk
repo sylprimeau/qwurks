@@ -1,0 +1,319 @@
+[
+    {
+        "question": "When I eat lasagna, does anyone else like the hard, dry bits of pasta and cheese the most?",
+        "explanation": "The soft noodles and sauce are OK, but the dry bits are what I really crave!",
+        "yesnum": 1,
+        "nonum": 5,
+        "totalvotes": 6,
+        "submituser": "Sylly",
+        "comments": [],
+        "index": 0
+    },
+    {
+        "question": "Does anyone else shout all the time even when they're not mad?",
+        "explanation": "who cares anyway?",
+        "yesnum": 4,
+        "nonum": 3,
+        "totalvotes": 7,
+        "submituser": "j2",
+        "comments": [
+            {
+                "comment": "Jhh",
+                "user": "guest"
+            }
+        ],
+        "index": 1
+    },
+    {
+        "question": "Does anyone else always order a \"plain\" cheeseburger at McDonald's?",
+        "explanation": "I can't stand all the other toppings. Just give me the bun, the meat and the cheese!",
+        "yesnum": 0,
+        "nonum": 1,
+        "totalvotes": 1,
+        "submituser": "Sylly",
+        "comments": [],
+        "index": 2
+    },
+    {
+        "question": "Does anyone else fart in church?",
+        "explanation": "The priest smiles when I do, though.",
+        "yesnum": 1,
+        "nonum": 0,
+        "totalvotes": 1,
+        "submituser": "j3",
+        "comments": [],
+        "index": 3
+    },
+    {
+        "question": "Does anyone else not bring an umbrella when they go out even when they know the chance of rain is high?",
+        "explanation": "And it almost ALWAYS ends up raining.",
+        "yesnum": 1,
+        "nonum": 0,
+        "totalvotes": 1,
+        "submituser": "Sylly",
+        "comments": [],
+        "index": 4
+    },
+    {
+        "question": "Does anyone else smell their belly button lint?",
+        "explanation": "It smells kinda good though.",
+        "yesnum": 2,
+        "nonum": 0,
+        "totalvotes": 2,
+        "submituser": "yop!",
+        "comments": [
+            {
+                "comment": "this is a comment",
+                "user": "guest"
+            },
+            {
+                "comment": "another one",
+                "user": "guest"
+            },
+            {
+                "comment": "and another",
+                "user": "guest"
+            },
+            {
+                "comment": "one more",
+                "user": "guest"
+            },
+            {
+                "comment": "a fifth",
+                "user": "guest"
+            },
+            {
+                "comment": "a sixth",
+                "user": "guest"
+            }
+        ],
+        "index": 5
+    },
+    {
+        "question": "Does anyone else check that they've locked the door properly three or four times every time they go out?",
+        "explanation": "Is that OCD?",
+        "yesnum": 2,
+        "nonum": 0,
+        "totalvotes": 2,
+        "submituser": "7",
+        "comments": [],
+        "index": 6
+    },
+    {
+        "question": "Does anyone else go to three different grocery stores to save $5 but then when they're out with friends, they'll spend $7 on drinks all night long without thinking about it?",
+        "explanation": "Penny-wise and pound-foolish, no?",
+        "yesnum": 2,
+        "nonum": 1,
+        "totalvotes": 3,
+        "submituser": "8",
+        "comments": [
+            {
+                "comment": "egdsgds",
+                "user": "guest"
+            },
+            {
+                "comment": "sgsdgsdg",
+                "user": "guest"
+            },
+            {
+                "comment": "gssdgsdgsd",
+                "user": "guest"
+            },
+            {
+                "comment": "dsgew",
+                "user": "guest"
+            },
+            {
+                "comment": "sdgsdgsd",
+                "user": "guest"
+            }
+        ],
+        "index": 7
+    },
+    {
+        "question": "Does anyone else hate the iPhone?",
+        "explanation": "Everyone else seems to love it despite all the stupid things about it.",
+        "yesnum": 2,
+        "nonum": 1,
+        "totalvotes": 3,
+        "submituser": "9",
+        "comments": [],
+        "index": 8
+    },
+    {
+        "question": "Does anyone else think this site is awesome?",
+        "explanation": "My mind is mush right now.",
+        "yesnum": 2,
+        "nonum": 2,
+        "totalvotes": 4,
+        "submituser": "10",
+        "comments": [
+            {
+                "comment": "Hi",
+                "user": "guest"
+            }
+        ],
+        "index": 9
+    },
+    {
+        "question": "Does anyone else always using two tissues to blow their nose?",
+        "explanation": "It usually rips if I just use one.",
+        "yesnum": 5,
+        "nonum": 4,
+        "totalvotes": 9,
+        "submituser": "11",
+        "comments": [],
+        "index": 10
+    },
+    {
+        "question": "Does anyone else like the most recent dance music even though they're technically middle-aged?",
+        "explanation": "I never listen to oldies and think \"now this is real music!\" like all my friends do.",
+        "yesnum": 0,
+        "nonum": 7,
+        "totalvotes": 7,
+        "submituser": "12",
+        "comments": [
+            {
+                "comment": "",
+                "user": "guest"
+            },
+            {
+                "comment": "",
+                "user": "guest"
+            },
+            {
+                "comment": "hello",
+                "user": "guest"
+            }
+        ],
+        "index": 11
+    },
+    {
+        "question": "Does anyone else drink milk right out of the carton even when they're sick?",
+        "explanation": "I like spreading my germs. LOL",
+        "yesnum": 7,
+        "nonum": 4,
+        "totalvotes": 11,
+        "submituser": "the 13th guy",
+        "comments": [
+            {
+                "comment": "HDFHFD",
+                "user": "DHHDFHD"
+            },
+            {
+                "comment": "Hey",
+                "user": "guest"
+            },
+            {
+                "comment": "Hey hey",
+                "user": "Not a guest"
+            },
+            {
+                "comment": "another comment",
+                "user": "guest"
+            },
+            {
+                "comment": "and another",
+                "user": "guest"
+            },
+            {
+                "comment": "how many can i put here?",
+                "user": "guest"
+            },
+            {
+                "comment": "testing again",
+                "user": "guest"
+            },
+            {
+                "comment": "nice",
+                "user": "guest"
+            },
+            {
+                "comment": "sfasfas",
+                "user": "guest"
+            },
+            {
+                "comment": "asfasfas",
+                "user": "guest"
+            },
+            {
+                "comment": "This my comment.",
+                "user": "guest"
+            },
+            {
+                "comment": "asfas",
+                "user": "guest"
+            },
+            {
+                "comment": "hey hey",
+                "user": "guest"
+            },
+            {
+                "comment": "hey",
+                "user": "guest"
+            }
+        ],
+        "index": 12
+    },
+    {
+        "question": "Does anyone else keep all their savings in their mattress?\r\n",
+        "explanation": "It's the first place robbers will look but I somehow feel it's safer than a bank. LOL",
+        "yesnum": 2,
+        "nonum": 2,
+        "totalvotes": 4,
+        "submituser": "MattressSaver",
+        "comments": [
+            {
+                "comment": "That's crazy. Banks are insured unless you have over $100k, in which case you can use more than one bank.",
+                "user": "guest"
+            },
+            {
+                "comment": "I do that too!",
+                "user": "saver"
+            },
+            {
+                "comment": "sdgdgd",
+                "user": "guest"
+            },
+            {
+                "comment": "zxbzxbcx",
+                "user": "guest"
+            },
+            {
+                "comment": "bxcbcxb",
+                "user": "guest"
+            }
+        ],
+        "index": 13
+    },
+    {
+        "question": "another Q",
+        "explanation": "woo hoo",
+        "yesnum": 1,
+        "nonum": 0,
+        "totalvotes": 1,
+        "submituser": "heyman",
+        "comments": [],
+        "index": 14
+    },
+    {
+        "question": "another Q again",
+        "explanation": "woo hoo again",
+        "yesnum": 2,
+        "nonum": 1,
+        "totalvotes": 3,
+        "submituser": "heymanagain",
+        "comments": [],
+        "index": 15
+    },
+    {
+        "question": "Has anyone else stuffed themselves so much they literally can't move?",
+        "explanation": "What a weird feeling.",
+        "yesnum": 0,
+        "nonum": 0,
+        "totalvotes": 0,
+        "submituser": "mynickname",
+        "comments": [],
+        "index": 16
+    }
+]
